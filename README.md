@@ -8,7 +8,7 @@ Sou Giovanna Rodrigues Pereira, tenho 18 anos e sou estudante de Sistemas de Inf
   <a href="https://github.com/girodrigues18?tab=repositories" target="_blank">
     <img alt="repositorios" title="Confira meus projetos!" src="https://custom-icon-badges.demolab.com/badge/-Repositórios-%23d63384?style=for-the-badge&logoColor=white&logo=repo"/></a>  
     <a href="mailto:gipereira1808@gmail.com" target="_blank">
-    <img alt="gmail" title="Mande-me um e-mail!" src="https://custom-icon-badges.demolab.com/badge/-gmail-%23c77dff?style=for-the-badge&logo=mention&logoColor=white"/></a>
+    <img alt="gmail" title="Entre em contato por e-mail!" src="https://custom-icon-badges.demolab.com/badge/-gmail-%23c77dff?style=for-the-badge&logo=mention&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/giovanna-rodrigues-ti/" target="_blank">
     <img alt="linkedin" title="Siga meu Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-linkedin-%23e599f7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 </p>
