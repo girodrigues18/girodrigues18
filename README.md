@@ -1,28 +1,46 @@
-## Olá! Eu sou a Giovanna Rodrigues
+# 💻 Giovanna Rodrigues
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girodrigues18&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girodrigues18&layout-compact&langs_cout-16&theme=dracula"/>
-</div>
+**`Estudante em Formação`**
+
+Sou Giovanna Rodrigues Pereira, tenho 18 anos e sou estudante de Sistemas de Informação na FIAP, com formação técnica em Logística. Tenho interesse especial em Business Intelligence, Análise de Dados e Visualização com Power BI e Python. Venho desenvolvendo projetos práticos que unem tecnologia, organização e comunicação visual — incluindo dashboards, sites e automações. Acredito no aprendizado contínuo e estou em constante evolução para atuar na área de dados e tecnologia.
+
+<p align="center">
+  <a href="https://github.com/girodrigues18?tab=repositories" target="_blank">
+    <img alt="repositorios" title="Confira meus projetos!" src="https://custom-icon-badges.demolab.com/badge/-Repositórios-%23d63384?style=for-the-badge&logoColor=white&logo=repo"/></a>  
+    <a href="mailto:gipereira1808@gmail.com" target="_blank">
+    <img alt="gmail" title="Mande-me um e-mail!" src="https://custom-icon-badges.demolab.com/badge/-gmail-%23c77dff?style=for-the-badge&logo=mention&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/giovanna-rodrigues-ti/" target="_blank">
+    <img alt="linkedin" title="Siga meu Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-linkedin-%23e599f7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+</p>
 
 ##
 
-<div style="display: inline-block">
-  <img align="center" alt="canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+### 📌 Linguagens e Tecnologias
+
+<div align="center" style="display: inline-block">
+  <img align="center" alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
   <img align="center" alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>    
   <img align="center" alt="javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-  <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
+  <img align="center" alt="idea" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>  
+  <img align="center" alt="canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+  <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>     
+  <img align="center" alt="github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>     
+</div>
+          
+##
+
+### 📈 Estatísticas
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girodrigues18&show_icons=true&locale=pt-br&bg_color=transparent&title_color=d63384&text_color=grey&icon_color=d63384"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girodrigues18&layout=compact&locale=pt-br&bg_color=trasnparent&title_color=d63384&text_color=grey&icon_color=d63384"/>
 </div>
 
 ##
 
-<div>
-  <a href="gipereira1808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="(11)95059-7177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/giovanna-rodrigues-ti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+
+
         
           
