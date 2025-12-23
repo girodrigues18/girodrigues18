@@ -34,8 +34,8 @@ Me chamo Giovanna Rodrigues Pereira e sou estudante de Sistemas de Informação 
 ### 📈 Estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girodrigues18&show_icons=true&locale=pt-br&bg_color=transparent&title_color=d63384&text_color=grey&icon_color=d63384"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girodrigues18&layout=compact&locale=pt-br&bg_color=trasnparent&title_color=d63384&text_color=grey&icon_color=d63384"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girodrigues18&show_icons=true&locale=pt-br&bg_color=transparent&title_color=d63384&text_color=grey&icon_color=d63384&cache=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girodrigues18&layout=compact&locale=pt-br&bg_color=transparent&title_color=d63384&text_color=grey&icon_color=d63384&cache=1"/>
 </div>
 
 ##
