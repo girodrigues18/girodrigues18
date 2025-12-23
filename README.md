@@ -2,7 +2,7 @@
 
 **`Estudante em Formação`**
 
-Sou Giovanna Rodrigues Pereira, tenho 18 anos e sou estudante de Sistemas de Informação na FIAP, com formação técnica em Logística. Tenho interesse especial em Business Intelligence, Análise de Dados, visualização com Power BI e Python, além de Inteligência Artificial. Venho desenvolvendo projetos práticos que unem tecnologia, organização e comunicação visual — incluindo dashboards, sites, agentes de IA e automações. Acredito no aprendizado contínuo e estou em constante evolução para atuar na área de dados e tecnologia.
+Me chamo Giovanna Rodrigues Pereira e sou estudante de Sistemas de Informação na FIAP, com formação técnica em Logística. Tenho interesse especial em Business Intelligence, Análise de Dados, visualização com Power BI e Python, além de Inteligência Artificial. Venho desenvolvendo projetos práticos que unem tecnologia, organização e comunicação visual — incluindo dashboards, sites, agentes de IA e automações. Acredito no aprendizado contínuo e estou em constante evolução para atuar na área de dados e tecnologia.
 
 <p align="center">
   <a href="https://github.com/girodrigues18?tab=repositories" target="_blank">
