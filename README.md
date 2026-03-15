@@ -43,9 +43,12 @@ Me chamo Giovanna Rodrigues Pereira e sou estudante de Sistemas de Informação 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=girodrigues18&layout=compact&locale=pt-br&bg_color=transparent&title_color=d63384&text_color=grey&icon_color=d63384" />
 </div>
 
-##
 
+### 🐍 Minhas contribuições
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girodrigues18/girodrigues18/output/github-contribution-grid-snake.svg"/>
+</p>
 
         
           
